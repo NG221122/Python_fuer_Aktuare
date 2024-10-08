@@ -1,2 +1,2 @@
-Dies ist eine weitere Beispielausgabe.
-Und noch eine weitere Zeile Text.
+Dies ist ein Beispieltext für eine andere Datei.
+Hier ist eine neue Zeile.

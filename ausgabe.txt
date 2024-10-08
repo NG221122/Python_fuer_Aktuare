@@ -1,0 +1,2 @@
+Dies ist ein Beispieltext für die Datei.
+Hier ist eine neue Zeile.
