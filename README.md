@@ -31,6 +31,10 @@ The course is divided into five key sections:
    - Building simple classification and regression models.
    - Applying machine learning models to actuarial datasets.
 
+## Completed Notebooks
+This repository has a second branch, with the completed notebooks, e.g. all exercises solved and all missing code added. You can find it under:
+[Completed Branch](https://github.com/DeutscheAktuarvereinigung/Python_fuer_Aktuare/tree/completed)
+
 ## Getting Started
 
 To get started with the notebooks, you can either clone this repository locally or use one of the following platforms for running the notebooks in your browser without any local installation:
